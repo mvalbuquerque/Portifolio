@@ -23,5 +23,12 @@ Other
 #Books
 https://itunes.apple.com/br/book/ios-7-programmer-1/id772107170?mt=11
 
+https://itunes.apple.com/br/book/ios-7-programmer-2/id868112110?mt=11
+
+
+
+
+
+
 
 
