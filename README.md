@@ -2,7 +2,7 @@
 
 
 All list in Fagron Technologies
-https://itunes.apple.com/br/artist/alternate-technologies/id528254670?iPhoneSoftwarePage=1#iPhoneSoftwarePage
+https://itunes.apple.com/br/developer/fagron-technologies-ltda/id528254670
 
 #App dashflow
 https://play.google.com/store/apps/details?id=br.com.fagrontechnologies.dashflow
