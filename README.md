@@ -4,11 +4,13 @@
 All list in Fagron Technologies
 https://itunes.apple.com/br/artist/alternate-technologies/id528254670?iPhoneSoftwarePage=1#iPhoneSoftwarePage
 
+#App dashflow
+https://play.google.com/store/apps/details?id=br.com.fagrontechnologies.dashflow
 
-#AppFagron
+#App Fagron
 https://itunes.apple.com/br/app/fagron/id964543844?mt=8
 
-#AppPharmaNostra
+#App PharmaNostra
 https://itunes.apple.com/br/app/pharmanostra/id964582885?mt=8
 
 #App Florien
